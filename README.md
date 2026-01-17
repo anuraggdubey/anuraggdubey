@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anurag Dubey</h1>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/anuraggdubey">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Bachelor's+Computer+Science+Student;Front-End+Developer+%7C+Web+Developer;React+%2B+Redux+%7C+Tailwind+CSS;Node.js+%2B+Express+%7C+MongoDB;Cybersecurity+Enthusiast+%7C+AI+Learner" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuragg" target="_blank">
+  <a href="https://github.com/anuraggdubey" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/your-link](https://in.linkedin.com/in/anurag-dubey-407435349)" target="_blank">
+  <a href="https://in.linkedin.com/in/anurag-dubey-407435349" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/anuragdubeyyyy" target="_blank">
