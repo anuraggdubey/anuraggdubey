@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Dubey</h1>
+<h1 align="center">Hi 👋, I'm Anurag </h1>
 
 <p align="center">
   <a href="https://github.com/anuraggdubey">
@@ -14,7 +14,7 @@
 - 💻 Full-Stack Developer focused on **production-level applications**
 - ⚡ Strong in building **real-world scalable systems**
 - 🤖 Working on **AI agents, automation & intelligent workflows**
-- ⛓ Exploring **Blockchain & Web3 ecosystems**
+- ⛓ Exploring & Building **Blockchain & Web3 ecosystems**
 - 🧠 Focused on **execution, not just learning**
 
 ---
