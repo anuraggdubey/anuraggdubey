@@ -107,11 +107,13 @@
   <a href="https://instagram.com/anuragdubeyyyy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
+  <a href="https://x.com/anuraggdubeyy">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter"/>
+  </a>
   <a href="mailto:dubeyanurag3925@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-
 ---
 
 ⭐ **Execution > Ideas**  
