@@ -69,7 +69,7 @@ built web3 projects on stellar, worked on trustlines, transactions & decentraliz
 
 ### find me
 
-<a href="https://github.com/anuraggdubey"><img src="https://cdn.simpleicons.org/github/000000" height="22" /></a>&nbsp;&nbsp;<a href="https://in.linkedin.com/in/anurag-dubey-407435349"><img src="https://cdn.simpleicons.org/linkedin/000000" height="22" /></a>&nbsp;&nbsp;<a href="https://x.com/anuraggdubeyy"><img src="https://cdn.simpleicons.org/x/000000" height="22" /></a>&nbsp;&nbsp;<a href="https://instagram.com/anuragdubeyyyy"><img src="https://cdn.simpleicons.org/instagram/000000" height="22" /></a>&nbsp;&nbsp;<a href="mailto:dubeyanurag3925@gmail.com"><img src="https://cdn.simpleicons.org/gmail/000000" height="22" /></a>
+<a href="https://github.com/anuraggdubey"><img src="https://cdn.simpleicons.org/github/000000" height="22" /></a>&nbsp;&nbsp;<a href="https://in.linkedin.com/in/anurag-dubey-407435349"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=linkedin" height="22" /></a>&nbsp;&nbsp;<a href="https://x.com/anuraggdubeyy"><img src="https://cdn.simpleicons.org/x/000000" height="22" /></a>&nbsp;&nbsp;<a href="https://instagram.com/anuragdubeyyyy"><img src="https://cdn.simpleicons.org/instagram/000000" height="22" /></a>&nbsp;&nbsp;<a href="mailto:dubeyanurag3925@gmail.com"><img src="https://cdn.simpleicons.org/gmail/000000" height="22" /></a>
 
 ---
 
