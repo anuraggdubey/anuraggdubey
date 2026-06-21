@@ -1,6 +1,9 @@
 # hey, i'm anurag 👋
 
-cs student (2023–26) · Stellar India Ambassador · full-stack & Blockchain dev · building things in Web2 & Web3
+**·** cs student (2023–26) 
+**·** Stellar India Ambassador 
+**·** full-stack & Blockchain dev 
+**·** building things in Web2 & Web3
 
 i care more about **execution** than ideas. currently deep into ai agents, web3, and scalable backend systems.
 
@@ -57,13 +60,20 @@ i care more about **execution** than ideas. currently deep into ai agents, web3,
 
 ---
 
+### Achievements
+
+- 🥈 **Top 20** — GDG National Hackathon (Build & Grow AI Hackathon 2.0)
+- 💰 **₹30,000+** — Stellar Builder Program, for open-source contributions
+
+---
+
 ### experience
 
 **documentation intern — rumicare international conference**
 designed and issued 50+ official certificates, contributed to conference magazine content and structured documentation workflows
 
 **open source contributor — stellar ecosystem**
-built web3 projects on stellar, worked on trustlines, transactions & decentralized systems — secured ₹20k+ in grants
+built web3 projects on stellar, worked on trustlines, transactions & decentralized systems — secured ₹30k+ in grants
 
 ---
 
