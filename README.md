@@ -1,6 +1,6 @@
 # hey, i'm anurag 👋
 
-cs student (2023–26) · full-stack dev · building real things
+cs student (2023–26) · Stellar India Ambassador · full-stack & Blockchain dev · building things in Web2 & Web3
 
 i care more about **execution** than ideas. currently deep into ai agents, web3, and scalable backend systems.
 
